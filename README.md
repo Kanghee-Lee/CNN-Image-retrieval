@@ -23,6 +23,7 @@ Since I received the dataset from Tattoo Dataset Organization, you need your own
            ├── yyy.png
            ├── ...
    └── retrieval_test (test dataset for Image Retrieval)
+       ├── retrieval_annotations.txt (you can find the reference for this file in my test_dataset folder)
        ├── images
            ├── xxx.jpg 
            ├── yyy.png
