@@ -36,7 +36,6 @@ Since I received the dataset from Tattoo Dataset Organization, you need your own
 * You need your own dataset for every following steps.
 
 * [frcnn_train_vgg.ipynb](Object_Detection/frcnn_train_vgg.ipynb) This notebook is for the training Object detection model(Faster R-CNN). 
-It includes code to run object detection and instance segmentation on arbitrary images.
 
 * [frcnn_test_vgg.ipynb](Object_Detection/frcnn_test_vgg.ipynb) This notebook is for the testing Object detection model(Faster R-CNN). 
 
